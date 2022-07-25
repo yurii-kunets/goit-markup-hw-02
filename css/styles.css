@@ -149,3 +149,38 @@ body {
   line-height: 1.71;
   letter-spacing: 0.03em;
 }
+
+/* ---------PORTFOLIO--------- */
+
+.portfolio-filter-button {
+  display: flex;
+  align-items: center;
+  text-align: center;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.62;
+  letter-spacing: 0.03em;
+  color: #212121;
+}
+
+.portfolio-filter-button:hover,
+.portfolio-filter-button:focus {
+  background: #2196f3;
+  color: #ffffff;
+}
+
+.portfolio-item-title {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 2;
+  letter-spacing: 0.06em;
+  color: #212121;
+}
+
+.portfolio-item-descr {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.88;
+  letter-spacing: 0.03em;
+  color: #757575;
+}
