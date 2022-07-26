@@ -113,6 +113,10 @@ body {
 
 /* ---------TEAM--------- */
 
+.team {
+  background: #f5f4fa;
+}
+
 .team-main {
   font-weight: 700;
   font-size: 36px;
@@ -120,6 +124,10 @@ body {
   text-align: center;
   letter-spacing: 0.03em;
   color: #212121;
+}
+
+.team-item {
+  background: #ffffff;
 }
 
 .team-title {
@@ -153,6 +161,7 @@ body {
 }
 
 .footer-adress {
+  font-family: inherit;
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
@@ -161,6 +170,7 @@ body {
 }
 
 .footer-email-link {
+  font-family: inherit;
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
@@ -169,6 +179,7 @@ body {
 }
 
 .footer-tel-link {
+  font-family: inherit;
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
